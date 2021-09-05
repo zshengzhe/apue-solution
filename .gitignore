@@ -33,3 +33,9 @@
 
 .DS_Store
 .vscode
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
